@@ -1,0 +1,1 @@
+if (global.currentroom < 4 || global.currentroom > 265 || (global.currentroom >= 239 && global.currentroom <= 241) || (global.currentroom >= 78 && global.currentroom <= 80)) room_goto(room_of_dog)

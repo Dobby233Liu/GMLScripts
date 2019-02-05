@@ -1,0 +1,1 @@
+if (global.currentroom <= 0 || global.currentroom >= 131) {return 1;} else {return 0;}
