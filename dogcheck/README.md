@@ -20,3 +20,13 @@ dogchecked!
 ```
 dogchecked!
 ```
+
+# UndertaleModTool 0.1.24 decompile result
+
+## scr_dogcheck_undertale
+
+![[redacted]](UTMT_scr_dc_ut.png)
+
+## scr_dogcheck_deltarune
+
+![Is it a part of your eye, or a cut on your face?](UTMT_scr_dc_dr.png)
